@@ -13,6 +13,10 @@ This is a analog clock and time checker app, made in flutter, with the time api
 
 
 
+https://github.com/Elyumusa/analog_clock_and_time_checker_flutter/assets/93226469/3c612089-2de6-4e7b-a44e-039ae495cead
+
+
+
 ## Screens it contains:
    - Home Page
    - Clock Page 
